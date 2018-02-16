@@ -1,0 +1,19 @@
+cadena ="abcdefghijk" 
+
+print (cadena[2])
+
+print(cadena[9])
+
+print(cadena[0:5])
+
+print(cadena[0:9])
+
+print(cadena[::2])
+
+print(cadena[1::2])
+
+print(cadena[::-1])
+
+print(cadena[::-2])
+
+print(cadena[0:11])
