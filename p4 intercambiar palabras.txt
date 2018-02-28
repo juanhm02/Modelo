@@ -1,0 +1,12 @@
+cadena =input("pon una cadena")
+
+print(cadena.find(" "))
+print(cadena[0:4])
+
+print(cadena[5:10])
+
+s =(cadena[5:10])+" "+(cadena[0:4])
+print (s)
+
+
+
